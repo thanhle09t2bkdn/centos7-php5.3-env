@@ -1,0 +1,2 @@
+#! /bin/bash
+sudo docker build -t comit/centos7-php5.3-env .

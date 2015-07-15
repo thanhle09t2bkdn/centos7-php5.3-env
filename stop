@@ -1,0 +1,4 @@
+#! /bin/bash
+
+sudo docker stop centos7-php5.3-env
+sudo docker rm centos7-php5.3-env
